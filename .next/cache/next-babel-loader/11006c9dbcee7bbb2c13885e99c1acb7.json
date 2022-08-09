@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nconst StaticThumbnailImage = ({\n  url\n}) => __jsx(\"img\", {\n  src: url,\n  alt: \"martfury-image\"\n});\n\nexport default StaticThumbnailImage;","map":null,"metadata":{},"sourceType":"module"}

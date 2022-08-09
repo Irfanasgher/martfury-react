@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var isStaticData = false;","map":{"version":3,"sources":["C:/chc-ui/utilities/app-settings.js"],"names":["isStaticData"],"mappings":"AAAA,OAAO,IAAMA,YAAY,GAAG,KAArB","sourcesContent":["export const isStaticData = false;\r\n"]},"metadata":{},"sourceType":"module"}
